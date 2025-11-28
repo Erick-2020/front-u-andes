@@ -17,14 +17,29 @@ export class App {
 
   products = [
     {
-      name: "Laptop",
-      price: 1200,
-      discount: 0.1
+      name: "Nico Blancos",
+      price: 190,
+      discount: 0
     },
     {
-      name: "Smartphone",
-      price: 800,
-      discount: 0.15
+      name: "yo verse azul",
+      price: 190,
+      discount: 0
+    },
+    {
+      name: "papa scet summits",
+      price: 235,
+      discount: 0
+    },
+    {
+      name: "mama adidas running performante",
+      price: 196,
+      discount: 0
+    },
+    {
+      name: "TOTAL",
+      price: 190+190+235+196,
+      discount: 0
     }
   ];
 
